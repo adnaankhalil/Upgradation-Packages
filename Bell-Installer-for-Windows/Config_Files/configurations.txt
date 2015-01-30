@@ -1,2 +1,2 @@
-{"name":"Ifo","nationName":"somaliabell","code":"ifo","type":"community","nationUrl":"somaliabell.ole.org:5987","version":"0.11.12","notes":"Ifo Community Bell","availableLanguages":["English","French","Arabic","Urdu"],"currentLanguage":"English"}
+{"name":"Dagahaley","nationName":"somaliabell","code":"dagahaley","type":"community","nationUrl":"somaliabell.ole.org:5987","version":"0.11.12","notes":"Dagahaley Community Bell","availableLanguages":["English","French","Arabic","Urdu"],"currentLanguage":"English"}
 
