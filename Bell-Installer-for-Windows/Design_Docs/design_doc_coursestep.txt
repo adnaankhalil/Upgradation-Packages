@@ -1,0 +1,1 @@
+{"_id":"_design/bell","views":{"StepsData":{"map":"function (doc) {\n      if (doc.courseId) {\n        emit(doc.courseId, true)\n      }\n    }"}}}

@@ -1,0 +1,1 @@
+{"_id":"_design/bell","language":"javascript","views":{"getPublications":{"map":"function(doc) {\n  if(doc.communityName)\n  emit([doc.communityName,doc.Viewed], true);\n}"}}}

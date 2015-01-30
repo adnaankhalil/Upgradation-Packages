@@ -1,0 +1,8 @@
+{
+   "_id": "_design/bell",
+   "views": {
+       "EventById": {
+           "map": "function (doc) {\n      if (doc.userId) {\n        emit(doc.userId, true)\n      }\n    }"
+       }
+   }
+}

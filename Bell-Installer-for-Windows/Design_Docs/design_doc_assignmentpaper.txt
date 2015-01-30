@@ -1,0 +1,1 @@
+{"_id":"_design/bell","views":{"CourseAssignmentPaperByMember":{"map":"function (doc) {\n      if (doc.senderId && doc.courseId) {\n        emit([doc.senderId,doc.courseId], true)\n      }\n    }"}}}

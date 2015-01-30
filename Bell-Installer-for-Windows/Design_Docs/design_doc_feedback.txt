@@ -1,0 +1,1 @@
+{"_id":"_design/bell","views":{"FeedbackByResourceId":{"map":"function (doc) {\n      if (doc.kind == 'Feedback' && doc.resourceId) {\n        emit(doc.resourceId, true)\n      }\n    }"}},"attachments_md5":{}}

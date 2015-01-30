@@ -1,0 +1,1 @@
+{"_id":"_design/bell","views":{"ScheduleByCourseId":{"map":"function (doc) {\n      if (doc.kind == 'Schedule') {\n        emit(doc.courseId, true)\n      }\n    }"}}}

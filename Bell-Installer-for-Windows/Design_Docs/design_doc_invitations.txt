@@ -1,0 +1,1 @@
+{"_id":"_design/bell","views":{"GetIniviteByMemberId":{"map":"function (doc) {\n      if (doc.memberId && doc.kind =='invitation') {\n        emit(doc.memberId, true)\n      }\n    }"}}}

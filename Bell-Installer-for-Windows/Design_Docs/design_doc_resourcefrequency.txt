@@ -1,0 +1,1 @@
+{"_id":"_design/bell","language":"javascript","views":{"memberfrequency":{"map":"function (doc) {\n      if (doc.memberID) {\n        emit(doc.memberID, true)\n      }\n    }"}}}
