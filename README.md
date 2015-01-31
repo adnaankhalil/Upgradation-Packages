@@ -1,4 +1,4 @@
-# Dagahaley Upgradation Package
+# All Dadaab Communities Upgradation Package
 Upgradation Packages for Dadaab Communities
 
-This branch has Dagahaley-specific Configurations and Credentials!
+Now this master branch will serve for all three communities.
