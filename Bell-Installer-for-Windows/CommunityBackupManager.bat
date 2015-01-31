@@ -7,8 +7,8 @@
 cmd /c %~dp0\Executables\startcouchdb.bat
 
 :: Setting Username and Password for Community
-set Username=admin
-set Password=password
+set Username=somalia
+set Password=oleoleole
 
 :: getting source paths
 for /f "tokens=*" %%a in ('dir .\Backup_* /b') do (

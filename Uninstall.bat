@@ -1,4 +1,4 @@
-FOR /R "C:\Program Files (x86)\Apache Software Foundation\CouchDB\var\lib\couchdb" %%F in (*.*) do %~dp0\Bell-Installer-for-Windows\curl -X DELETE http://admin:password@localhost:5984/%%~nF
+FOR /R "C:\Program Files (x86)\Apache Software Foundation\CouchDB\var\lib\couchdb" %%F in (*.*) do %~dp0\Bell-Installer-for-Windows\curl -X DELETE http://somalia:oleoleole@localhost:5984/%%~nF
 
 call %~dp0\Bell-Installer-for-Windows\Executables\node-v0.10.35-x64.msi
 

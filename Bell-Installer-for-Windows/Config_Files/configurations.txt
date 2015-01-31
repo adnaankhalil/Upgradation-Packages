@@ -1,2 +1,2 @@
-{"name":"Dagahaley","nationName":"somaliabell","code":"dagahaley","type":"community","nationUrl":"somaliabell.ole.org:5987","version":"0.11.12","notes":"Dagahaley Community Bell","availableLanguages":["English","French","Arabic","Urdu"],"currentLanguage":"English"}
+{"name”:”Community-name”,”nationName":"somaliabell","code”:”community-name-in-small-letters”,”type":"community","nationUrl":"somaliabell.ole.org:5987","version":"0.11.12","notes":"Dadaab Community Bell","availableLanguages":["English","French","Arabic","Urdu"],"currentLanguage":"English"}
 
